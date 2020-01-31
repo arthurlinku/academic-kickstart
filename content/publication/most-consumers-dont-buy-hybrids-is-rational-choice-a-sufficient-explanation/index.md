@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Most Consumers Dont Buy Hybrids Is Rational Choice a Sufficient Explanation"
-authors: [Duncan, Denvil, Arthur Lin Ku, Alyssa Julian, Sanya Carley, Saba Siddiki, Nikolaos Zirogiannis, and John D. Graham. ]
+authors: [Denvil Duncan, Arthur Lin Ku, Alyssa Julian, Sanya Carley, Saba Siddiki, Nikolaos Zirogiannis, and John D. Graham. ]
 date: 2019
 doi: "https://doi.org/10.1017/bca.2018.24."
 
